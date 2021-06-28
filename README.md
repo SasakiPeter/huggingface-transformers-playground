@@ -1,1 +1,1 @@
-# python-jupyterlab-template
+# huggingface transformers playground
